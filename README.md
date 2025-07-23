@@ -1,2 +1,2 @@
-# Ivy
+hospital_management_system
 HMS
